@@ -34,5 +34,4 @@ while (!finished) {
     }	  
 }
 println "Exiting the program";
-println "Thanks for using the Currency converter."
 
